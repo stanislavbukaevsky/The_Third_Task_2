@@ -1,4 +1,4 @@
-public class Truck extends Bicycle {
+public class Truck extends Transport {
 
     public void updateTyre() {
         System.out.println("Меняем покрышку на грузовом автомобиле");

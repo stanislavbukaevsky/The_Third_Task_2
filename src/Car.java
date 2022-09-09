@@ -1,6 +1,5 @@
-public class Car extends Bicycle {
+public class Car extends Transport {
 
-    @Override
     public void updateTyre() {
         System.out.println("Меняем покрышку на легковом автомобиле");
     }
